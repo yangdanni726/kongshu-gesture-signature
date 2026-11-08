@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="5" fill="#b2573f"/>
+  <rect x="8" y="8" width="48" height="48" rx="3" fill="none" stroke="#fbf4e8" stroke-opacity=".45" stroke-width="1.2"/>
+  <text x="32" y="43" text-anchor="middle" font-family="Kaiti SC, STKaiti, KaiTi, serif" font-size="31" fill="#fbf4e8">空</text>
+</svg>
